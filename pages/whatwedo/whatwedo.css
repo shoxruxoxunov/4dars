@@ -1,0 +1,79 @@
+/* hero */
+.hero {
+  margin-bottom: 9.6rem;
+}
+
+.hero__content {
+  margin-left: 10rem;
+}
+.hero__title {
+  color: var(--primary-text, #1d2130);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding-top: 9.6rem;
+  padding-bottom: 3.2rem;
+  position: relative;
+}
+.hero__title span {
+  display: block;
+  background-color: var(--primary-text, #1d2130);
+  width: 72px;
+  height: 1px;
+  position: absolute;
+  left: -10rem;
+  bottom: 40px;
+}
+.hero__h1 {
+  width: 46rem;
+  color: var(--primary-text, #1d2130);
+  font-family: Roboto;
+  font-size: 5.6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 6.7rem;
+  padding-bottom: 3.4rem;
+}
+.hero__paragraf {
+  color: var(--secondary-text, #525560);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 2.5rem;
+  width: 60rem;
+}
+.hero__img {
+  margin-left: 80rem;
+  margin-top: -30rem;
+}
+/* hero-end */
+
+/* features */
+.features {
+  background: var(--green-tertiary, #eff7f2);
+  height: 50.7rem;
+}
+.features__wrapper {
+}
+.container {
+}
+.features__h2 {
+  color: var(--primary-text, #1d2130);
+
+  /* H2 */
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%; /* 57.6px */
+  padding-bottom: 6.4rem;
+  padding-top: 9.6rem;
+}
+.projects {
+    margin-bottom: 9.6rem;
+}
